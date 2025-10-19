@@ -135,5 +135,3 @@ Contributing Redis support to BeamJS is an excellent opportunity to understand h
 By building a Redis adapter that fits BeamJS’s **ModelController system**, you demonstrate your ability to integrate new technologies, follow structured development processes, and contribute to open-source software effectively.  
 
 This contribution not only adds real value to BeamJS but also highlights your skills in **Node.js, database integration, and open-source collaboration** — making it a strong addition to your portfolio and internship experience.  
-
-Good luck with your contribution and future projects 🚀  
