@@ -139,9 +139,10 @@ In your PR description, you can write something like:
 ## 5. Conclusion
 
 Contributing to **BeamJS** is a great opportunity to learn about backend architecture, database abstraction, and open-source collaboration.  
-By adding Redis support, you help expand the framework’s flexibility and improve its performance options for caching and real-time data.
+Contributing to BeamJS is part of my ongoing journey to improve my backend development skills and apply what I learn in real projects.
+By exploring how BeamJS handles databases and working on adding Redis support, I’m trying to turn my learning into something practical and useful for others too.
 
-Even if your first version is basic, it’s an important step that opens the door for more improvements and future features from the community.
+My goal isn’t just to add a new feature, but to understand how real-world frameworks are built and maintained — and to keep growing through hands-on experience and open-source collaboration.
 
 ---
 
